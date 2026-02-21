@@ -1,4 +1,4 @@
-# LAMMI: Hierarchical Multi-Agent Reasoning for Pathology-Molecular Intelligence
+# LAMMI: LVLM Agent System for Molecularly Informed Medical Intelligence
 
 [![Status](https://img.shields.io/badge/status-under%20construction-orange)]()
 [![Paper](https://img.shields.io/badge/paper-coming%20soon-blue)]()
