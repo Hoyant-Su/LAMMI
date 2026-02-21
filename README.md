@@ -9,7 +9,7 @@
 
 ## 🧠 Core Ideas
 
-- **Scalable hierarchical architecture (anti-task-drift):** Planner-led decomposition with component agents enables stable long-horizon reasoning.
+- **Scalable hierarchical architecture (anti-task-drift):** planner-led decomposition with component agents enables stable long-horizon reasoning.
 - **Execution-grounded AEN:** each reasoning unit is derived from real tool feedback, `AEN = (Query, Action, Observation)`.
 - **Trajectory-Aware Finetuning (TA):** optimize on executable trajectories to improve tool-use consistency and final-answer reliability.
 
