@@ -46,10 +46,13 @@
 BibTeX will be updated after acceptance.
 
 ```bibtex
-@article{lammi2026,
-  title   = {LAMMI: Hierarchical Multi-Agent Reasoning for Pathology-Molecular Intelligence},
-  author  = {Anonymous},
-  journal = {arXiv preprint},
-  year    = {2026}
+@misc{su2026lammipathologytoolcentricbottomuplvlmagent,
+      title={LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology}, 
+      author={Haoyang Su and Shaoting Zhang and Xiaosong Wang},
+      year={2026},
+      eprint={2602.18773},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.18773}, 
 }
 ```
